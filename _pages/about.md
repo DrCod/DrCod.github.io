@@ -1,9 +1,11 @@
 ---
 permalink: /
-title: "Ronny Tuurime Polle"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+This is Ronny Tuurime Polle's personal website.
