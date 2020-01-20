@@ -30,16 +30,14 @@ Work experience
   
 Skills
 ======
-* Python
-* Java
-* C++
-* C
-* Android App Development
+* Python, Java, C++, C, Android, Ruby
+  * IDEs
+    * Visual Studio, Android Studio, Eclipse, Sublime
 
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
