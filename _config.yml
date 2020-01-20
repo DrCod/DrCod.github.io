@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ronny Tuurime Polle"
 title_separator          : "-"
 name                     : &name "Ronny Tuurime Polle"
-description              : &description "Medical Student, AI Researcher & Software Engineer"
+description              : &description "Medical Student, AI Researcher/Engineer & Software Developer"
 url                      : https://drcod.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "drcod.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ronny Polle Tuurime"
   avatar           : "ronny.jpg "
-  bio              : "I am a medical student, AI researcher and Software Engineer"
+  bio              : "I am a medical student, AI researcher/Engineer & Software Developer"
   location         : "Tamale, Ghana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=new_profile&hl=en"
