@@ -2,7 +2,7 @@
 title: "Tuberculosis Classification from CXR scans"
 collection: projects
 permalink: /projects/2018-project-2
-excerpt: 'In this work, I built an end-to-end trainable pipeline for Tuberculosis(TB) classification <br/><img src='/images/500x300.png'>'
+excerpt: 'In this work, I built an end-to-end trainable pipeline for Tuberculosis(TB) classification'
 paperurl: 'https://github.com/DrCod/radiological-imaging-captioning'
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: "Introduction to Machine Learning"
+title: "Introduction to Machine Learning <br/><img src='/images/elite2019.jpg'>"
 collection: teaching
-type: "Workshop"
+type: "EliTE Education"
 permalink: /teaching/2019-teaching-3
 venue: "Academic City College"
 date: 2019-10-28
 location: "Accra, Ghana"
 ---
-Lessons covered at 2019 ELiTE Camp
-
-<br/><img src='/images/elite2019.jpg'> <br/>
+Lessons covered
 
 * Introduction to Python, Numpy ,Pandas
 * Introduction to Tensorflow

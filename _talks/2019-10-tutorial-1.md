@@ -1,14 +1,11 @@
 ---
-title: "Machine Learning Deployment"
+title: "Machine Learning Deployment <br/><img src='/images/mise_prog.jpg'>"
 collection: teaching
-type: "Workshop"
 permalink: /teaching/2019-teaching-1
 venue: "Hopin Academy"
 date: 2019-10-28
 location: "Tamale, Ghana"
 ---
-
-<br/><img src='/images/mise_prog.jpg'> <br/>
 
 [Find Code](https://github.com/DrCod/model-deployment-hopinacademy-tutorials)
 
