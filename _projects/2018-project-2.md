@@ -6,4 +6,4 @@ excerpt: 'In this work, I built an end-to-end trainable pipeline for Tuberculosi
 paperurl: 'https://github.com/DrCod/radiological-imaging-captioning'
 ---
 
-Developed a  tuberculosis classification pipeline using deep convolutional neural networks. In the future, I seek to build an AI system capapble of generating word-level sequence captions of identified TB feature descriptions in chest x-ray scans. 
+Developed a  tuberculosis classification pipeline using deep convolutional neural networks. In the future, I seek to build an AI system capable of generating word-level sequence captions of identified TB feature descriptions in chest x-ray scans. 

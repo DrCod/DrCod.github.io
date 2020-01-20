@@ -7,7 +7,7 @@ venue: "Academic City College"
 date: 2019-10-28
 location: "Accra, Ghana"
 ---
-Lessons I taught and the available code
+Lessons I helped teach and the available code
 
 Machine Learning
 * Introduction to Python, Numpy ,Pandas

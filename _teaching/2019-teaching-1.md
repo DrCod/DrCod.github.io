@@ -7,12 +7,12 @@ venue: "Hopin Academy"
 date: 2019-10-28
 location: "Tamale, Ghana"
 ---
-Lessons I covered and the available code
+Lessons I taught and the available code
 
 * Introduction to Heroku
 * Introduction to Flask
 * Introduction to Tensorflow
-* Flask Server Implemntation
+* Flask Server Implementation
 * Model development & Deployment
 
 <br/><img src='/images/hopin.jpg'>
