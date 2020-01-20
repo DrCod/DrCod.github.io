@@ -1,0 +1,21 @@
+---
+title: "Junior Mathematics Olympiad Camp"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2019-teaching-2
+venue: "Mathematics Inspired Science & Engineering"
+date: 2019-08-03
+location: "Accra, Ghana"
+---
+
+<br/><img src='/images/mise_prog.jpg'> <br/>
+
+I prepared and taught mathematics olympiad lessons for student participants equipping them with creative problem solving skills in preparation towards the pre-olympiad selection program. 
+
+Mathematics Lessons Covered 
+* Number Theory
+* Combinatorics
+* Probability
+* Sequence & Series
+ 
+

@@ -1,0 +1,16 @@
+---
+title: "Machine Learning Deployment"
+collection: teaching
+type: "Workshop"
+permalink: /teaching/2019-teaching-1
+venue: "Hopin Academy"
+date: 2019-10-28
+location: "Tamale, Ghana"
+---
+
+<br/><img src='/images/mise_prog.jpg'> <br/>
+
+[Find Code](https://github.com/DrCod/model-deployment-hopinacademy-tutorials)
+
+I prepared this tensorflow tutorial for the participants of the National AI Training program. Code can be found in the link above.
+
