@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Machine Learning <br/><img src='/images/elite2019.jpg'>"
+title: "Introduction to Machine Learning"
 collection: teaching
 type: "EliTE Education"
 permalink: /teaching/2019-teaching-3
@@ -20,4 +20,5 @@ Machine Learning
 
 [Find code for KNN classification workbook here](https://github.com/DrCod/Elite-ML-Classification-Workbook)
 
+<br/><img src='/images/elite2019.jpg'><br/>
 

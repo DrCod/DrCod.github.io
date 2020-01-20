@@ -15,7 +15,7 @@ Lessons I taught and the available code
 * Flask Server Implementation
 * Model development & Deployment
 
-<br/><img src='/images/hopin.jpg'>
+<br/><img src='/images/hopin.jpg'> <br/>
 [Find the code for the tutorial lesson here](https://github.com/DrCod/model-deployment-hopinacademy-tutorials)
 
 

@@ -8,7 +8,7 @@ location: "Accra, Ghana"
 ---
 
 
-I prepared and taught mathematics olympiad lessons for student participants equipping them with creative problem solving skills in preparation towards the pre-olympiad selection program. 
+I taught mathematics olympiad-level lessons for student participants helping them gain creative problem solving skills in preparation towards the pre-olympiad selection program of the international mathematics olympiad.
 
 Mathematics Lessons Covered 
 * Number Theory
@@ -17,4 +17,4 @@ Mathematics Lessons Covered
 * Sequence & Series
  
 
- <br/><img src='/images/mise_prog.jpg'>
+ <br/><img src='/images/mise_prog.jpg'><br/>

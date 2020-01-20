@@ -10,6 +10,6 @@ location: "Tamale, Ghana"
 
 I prepared this tensorflow tutorial for the participants of the National AI Training program. [Find Code Here](https://github.com/DrCod/model-deployment-hopinacademy-tutorials)
 
-<br/><img src='/images/mise_prog.jpg'>
+<br/><img src='/images/hopin.jpg'>
 
 
