@@ -16,15 +16,17 @@ Education
 Work experience
 ======
 
-* November 2019 - Present: Co-Founder & Lead Software Engineer
+* November 2019 - Present: Co-Founder & Team Lead
   * MedicMall
 
 * September 2019 - Present: Founder 
   * Consult.AI
 
-
 * Janruary 2019 - August 2019: Software Engineering Intern
   * Sesi Technologies 
+
+* May 2018 - Present: Founder & Lead Researcher
+  * SunCity Panels-AI
 
 
   
@@ -32,7 +34,7 @@ Skills
 ======
 * Python, Java, C++, C, Android, Ruby
   * IDEs
-    * Visual Studio, Android Studio, Eclipse, Sublime
+    * Visual Studio, Android Studio, Eclipse, Sublime, LaTeX,Atom
 
 
 Projects
