@@ -3,8 +3,9 @@ title: "Junior Mathematics Olympiad Camp"
 collection: teaching
 type: "Mathematics Inspired Science & Engineering"
 permalink: /teaching/2019-teaching-2
-date: 2019-08-03
-location: "Accra, Ghana"
+venue: "Accra"
+date: 2019-08-10
+location: "Ghana"
 ---
 
 
