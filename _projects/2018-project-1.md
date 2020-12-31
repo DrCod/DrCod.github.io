@@ -6,5 +6,5 @@ excerpt: 'A method that gets a magnetic resonance spectroscopy signal of the bra
 
 paperurl: 'https://github.com/DrCod/MRS'
 ---
- Aiming to obtain accurate concentration estimates of metabolites present in any segment of the brain tissue, it is not clear if metabolite signals can be quantified at all. In this paper,we present a end-to-end convolutional neural network that is trained on simulated MRS signals. An output regression layer consisting of 22 metabolites of which 1 is a macromolecule, gives a 22-dimensional output vector of concentration values of each metabolite basis set
+ Aiming to obtain an accurate estimation of the concentration of metabolites present in any segment of the brain tissue, metabolite signals quantification still remain a challenging task. In this project,I trained convolutional neural networks on simulated magnetic resonance spectroscopy signals to predict the concentration of unseen metabolites.
 
