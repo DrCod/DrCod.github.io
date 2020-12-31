@@ -11,33 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in  Human Biology & B.S Surgery, 2022(Expected): University for Development Studies
-* West African Secondary School Certificate Examination(WASSCE): St. Francis Xavier Junior Seminary
+* MBChB(Medicine): University for Development Studies
+* High School: St. Francis Xavier Junior Seminary
 
 Work experience
 ======
 
-* September 2019 - Present: Founder 
-  * Consult.AI
+* Summer 2021: Research Intern 
+  * Carnegie Mellon University, Pittsburgh,U.S.A
+  * Natural Language Processing and Speech Processing Research
 
-* November 2019 - Present: Co-Founder & Team Lead
-  * MedicMall
+* July 2020 - Present: Artificial Intelligence & Machine Learning Consultant
+  * Emerging Leaders in Technology and Engineering Inc.
 
-* May 2018 - Present: Founder & Lead Researcher
-  * SunCity Panels-AI
+* January 2020 - Present: Founder
+  * Consult-AI
 
 * January 2019 - August 2019: Software Engineering Intern
   * Sesi Technologies 
-
-* January 2017 - May 2018: Co-Founder & CTO
-  * EarlyFood Inc.
 
 
 
   
 Skills
 ======
-* Python, Java, C++, C, Android, Ruby
+* Python, Java, C++,Android, Ruby
   * IDEs
     * Visual Studio, Android Studio, Eclipse, Sublime, LaTeX,Atom
 
@@ -49,13 +47,6 @@ Conferences & Workshops
 * Deep Learning Indaba , Nairobi, Kenya - August 2019
 * Data Science Africa Summer School & Workshop, Accra,Ghana - October 2019
 
-
-Awards
-======
-* International Youth Mathematics Challenge Global Finalist
-* Ghana Mathematics Olympiad Finalist
-* AJA.LA Studios Deep Learning Indaba Travel Award Winner
-* 2019 NVIDIA GTC DC Conference Grant  Recipient
 
 Projects
 ======

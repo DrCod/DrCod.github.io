@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a clinical-year medical student at the University for Development Studies School of Medicine situated in Tamale,Ghana. Before medicine, I spent a year studying physics at the University of Ghana,Legon.Outside of medical school, I am interested in AI with focus on deep machine learning , reinforcement learning,computer vision, causal inference and meta-learning. In my spare time, I like to soak my curiosity in neuroscience (with hopes of understanding the brain-mind complex from an evolutionary standpoint) and quantum mechanics, with ideas exploring the layers bounding time, and the fabric of space-time. I am a FIDE approved chess player and I love to play chess in my spare time, and read.
+I study medicine at the University for Development Studies School of Medicine situated in Tamale,Ghana. I am interested in A.I with focus on machine learning, computer vision,natural language processing,speech recognition, reinforcement learning and meta-learning. My research question is situated at the intersection of A.I and health,and the NLP and Speech Recognition challenges arising from leveraging A.I in the under-resourced and underrepresented settings. 
+
+I enjoy having coffee chats,playing chess,running and reading.
