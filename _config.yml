@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ronny Tuurime Polle"
-  avatar           : "ronny.jpg "
-  bio              : "Medical student, AI researcher/Engineer ,Software Developer & Enterpreneur"
-  location         : "Tamale, Ghana"
+  avatar           : "ronny_headshot.jpg "
+  bio              : "Machine Learning Researcher/Engineer"
+  location         : "Ghana"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?view_op=new_profile&hl=en"
   email            :
